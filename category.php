@@ -227,4 +227,6 @@
         </div>
       </div>
     </div>
+
+    <!-- testing perpose -->
 <?php include 'footer.php'; ?>
